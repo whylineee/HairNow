@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/HairNow.iml" filepath="$PROJECT_DIR$/.idea/HairNow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FSBot.iml" filepath="$PROJECT_DIR$/.idea/FSBot.iml" />
     </modules>
   </component>
 </project>
